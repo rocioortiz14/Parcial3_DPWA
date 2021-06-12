@@ -1,0 +1,9 @@
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\bin\Debug\netstandard2.0\Aplication.deps.json
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\bin\Debug\netstandard2.0\Aplication.dll
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\bin\Debug\netstandard2.0\Aplication.pdb
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\obj\Debug\netstandard2.0\Aplication.csproj.AssemblyReference.cache
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\obj\Debug\netstandard2.0\Aplication.AssemblyInfoInputs.cache
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\obj\Debug\netstandard2.0\Aplication.AssemblyInfo.cs
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\obj\Debug\netstandard2.0\Aplication.csproj.CoreCompileInputs.cache
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\obj\Debug\netstandard2.0\Aplication.dll
+C:\Users\REINA GARCIA\source\repos\BancoCursoREST\Aplication\obj\Debug\netstandard2.0\Aplication.pdb

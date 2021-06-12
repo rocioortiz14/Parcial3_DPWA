@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.Specification" Version="5.1.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="FluentValidation" Version="10.2.3" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="10.2.3" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Feautres\Clientes\Commands\DeleteClienteCommand\" />
+    <Folder Include="Feautres\Clientes\Commands\UpdateClienteCommand\" />
+    <Folder Include="Feautres\Clientes\Queries\GetAllClientes\" />
+    <Folder Include="Feautres\Clientes\Queries\GetClienteById\" />
+    <Folder Include="Feautres\Cuentas\Commands\DeleteCuentaCommand\" />
+    <Folder Include="Feautres\Cuentas\Commands\UpdateCuentaCommand\" />
+    <Folder Include="Feautres\Cuentas\Queries\GetAllCuentas\" />
+    <Folder Include="Feautres\Cuentas\Queries\GetCuentaById\" />
+    <Folder Include="Filters\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>

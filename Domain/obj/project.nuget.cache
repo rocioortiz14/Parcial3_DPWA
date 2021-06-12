@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgjVEbObfSwP79dwEjbGfIe9hiXdbHcsmnkLKEzlw9s/QstyXSfdidrucIDL5EB1Ep+Zg8i+fBIAXnEHlsVLUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROSY BONITA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ROSY BONITA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
