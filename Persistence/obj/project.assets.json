@@ -7556,24 +7556,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ROSY BONITA\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\JC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\ROSY BONITA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Persistence\\obj\\",
+      "projectPath": "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ROSY BONITA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7587,11 +7582,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Aplication\\Application.csproj": {
-              "projectPath": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Aplication\\Application.csproj"
+            "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Aplication\\Application.csproj": {
+              "projectPath": "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Aplication\\Application.csproj"
             },
-            "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Domain\\Domain.csproj"
+            "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\JC\\Source\\Repos\\Parcial3_DPWA\\Domain\\Domain.csproj"
             }
           }
         }
@@ -7638,7 +7633,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
