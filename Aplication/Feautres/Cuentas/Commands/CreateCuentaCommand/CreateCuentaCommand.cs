@@ -11,6 +11,7 @@ namespace Application.Feautres.Cuentas.Commands.CreateCuentaCommand
 {
     public class CreateCuentaCommand : IRequest<Response<int>>
     {
+        public int Id { get; set; }
         public string NombreBanco { get; set; }
         public string NombreCliente { get; set; }
         public DateTime FechaApertura { get; set; }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KJjEqY/WvFcucgjBH9EfR0KB0IW1k76drrTalBDk69vkALzrHkUL00HlhJ3hutrV/WNv7OIvTqTIJoGQVeNJYw==",
+  "dgSpecHash": "sb2VUiiTYd9D+aHkyQhnelzEZzXAh0UX9xx0zXAGuy16e10x7dZTCrVm4Ial5ifrbKTjIHKcoxnWww7JnvmItg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ROSY BONITA\\Desktop\\BancoCursoREST\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -44,7 +44,7 @@
     "C:\\Users\\ROSY BONITA\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\ROSY BONITA\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ROSY BONITA\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\ROSY BONITA\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\ROSY BONITA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\ROSY BONITA\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ROSY BONITA\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ROSY BONITA\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

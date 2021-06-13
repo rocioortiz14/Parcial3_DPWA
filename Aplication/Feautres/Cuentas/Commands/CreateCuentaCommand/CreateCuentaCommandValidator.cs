@@ -10,7 +10,12 @@ namespace Application.Feautres.Cuentas.Commands.CreateCuentaCommand
     
             public CreateCuentaCommandValidator()
             {
-                RuleFor(p => p.NombreBanco)
+            RuleFor(p => p.Id)
+                 .NotEmpty().WithMessage("{PropertyName} no puede ser vacio.");
+            RuleFor(p => p.NombreBanco)
+               .NotEmpty().WithMessage("{PropertyName} No puesde estar vacio")
+               .MaximumLength(50).WithMessage("{PropertyName} No debe exceder de {Maxlength} caracteres");
+            RuleFor(p => p.NombreBanco)
                    .NotEmpty().WithMessage("{PropertyName} No puesde estar vacio")
                    .MaximumLength(50).WithMessage("{PropertyName} No debe exceder de {Maxlength} caracteres");
 
